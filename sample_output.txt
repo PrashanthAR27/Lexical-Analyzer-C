@@ -1,0 +1,41 @@
+---------------------------------------------------------------
+LINE   TOKEN TYPE                 TOKEN                         
+---------------------------------------------------------------
+1      Header File                stdio.h                       
+3      Keyword                    int                           
+3      Identifier                 main                          
+3      Left Parenthesis           (                             
+3      Right Parenthesis          )                             
+4      Left Brace                 {                             
+5      Keyword                    int                           
+5      Identifier                 age                           
+5      Assignment Operator        =                             
+5      Integer Literal            20                            
+5      Delimiter                  ;                             
+7      Keyword                    if                            
+7      Left Parenthesis           (                             
+7      Identifier                 age                           
+7      Relational Operator        >                             
+7      Integer Literal            18                            
+7      Right Parenthesis          )                             
+8      Left Brace                 {                             
+9      Identifier                 printf                        
+9      Left Parenthesis           (                             
+9      String Literal             "Adult"                       
+9      Right Parenthesis          )                             
+9      Delimiter                  ;                             
+10     Right Brace                }                             
+12     Keyword                    return                        
+12     Integer Literal            0                             
+12     Delimiter                  ;                             
+13     Right Brace                }                             
+---------------------------------------------------------------
+SUMMARY
+---------------------------------------------------------------
+Total Keywords    : 4
+Total Identifiers : 4
+Total Literals    : 4
+Total Operators   : 2
+Total Comments    : 0
+Total Invalid     : 0
+---------------------------------------------------------------
